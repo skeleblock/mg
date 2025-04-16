@@ -1,0 +1,10 @@
+{
+  "name": "Skullboy DEMO",
+  "description": "The demo for Nwofka Skullboy by Machine Girl which was deleted from their soundcloud.",
+  "author": "skeleblock",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
